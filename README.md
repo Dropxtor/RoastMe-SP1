@@ -74,9 +74,9 @@ The app uses Succinct's SP1 zkVM for zero-knowledge proofs. Install it with:
 ```bash
 curl -L https://sp1up.succinct.xyz | bash
 ```
-* After entering the command, follow the new prompts to enter the neccessery command!
+* After entering the command, follow the new prompts to enter the neccessery command! To start using sp1up, please run:
 ```bash
-source /root/.bashrc
+source /root/.bashrc  or source /home/pcname/.bashrc
 ```
 ```bash
 sp1up
